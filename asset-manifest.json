@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-MyPortFolio/static/css/main.1803caf0.css",
+    "main.js": "/react-MyPortFolio/static/js/main.baa31d1a.js",
+    "static/media/book.jpg": "/react-MyPortFolio/static/media/book.3f3ad9ca3a8b984695a1.jpg",
+    "static/media/Chatapp.webp": "/react-MyPortFolio/static/media/Chatapp.8df78a42fb18b9f43e6b.webp",
+    "static/media/shoping.jpg": "/react-MyPortFolio/static/media/shoping.b2c1ddbdd5beb84f8fad.jpg",
+    "static/media/aboutme.webp": "/react-MyPortFolio/static/media/aboutme.8c6125d8cc109dc7ae9b.webp",
+    "static/media/Hero.webp": "/react-MyPortFolio/static/media/Hero.6da01ee26eb3ae3a2c9c.webp",
+    "static/media/Akash.jpg": "/react-MyPortFolio/static/media/Akash.2bb82970a7ba390d6225.jpg",
+    "index.html": "/react-MyPortFolio/index.html",
+    "main.1803caf0.css.map": "/react-MyPortFolio/static/css/main.1803caf0.css.map",
+    "main.baa31d1a.js.map": "/react-MyPortFolio/static/js/main.baa31d1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1803caf0.css",
+    "static/js/main.baa31d1a.js"
+  ]
+}
