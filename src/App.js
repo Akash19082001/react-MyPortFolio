@@ -1,3 +1,4 @@
+import { Analytics } from '@vercel/analytics/react';
 import './App.css';
 import About from './Components/About';
 import Contect from './Components/Contect';
@@ -17,6 +18,7 @@ function App() {
        <Resume/>
        <Contect/>
        <Footer/>
+       <Analytics/>
     </div>
   );
 }
